@@ -3,7 +3,7 @@
 #======================================+
 #                                      |
 #      High Performance Script for     |
-#         KNN-Based Subsampling        |
+#         IDWS-Based Subsampling        |
 #--------------------------------------+
 #        ( Aakash Singh Bais )         |
 #             15 Dec 2022              |
